@@ -1,10 +1,9 @@
-# Title 
-## Intro
-## Development
-### P1
-### P2
-### P3
-## Conclusion
+# Gabe Dorval
+xx'Python Apprentice'xx
+2-3 sentences about me
+---
+## Languages
+Python
 
 <!--
 **gabedorval589/gabedorval589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,8 @@
 # Gabe Dorval
 xx'Python Apprentice'xx
+
 2-3 sentences about me
+
 ---
 ## Languages
 Python

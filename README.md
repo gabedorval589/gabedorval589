@@ -3,6 +3,11 @@ xx'Python Apprentice'xx
 
 2-3 sentences about me
 
+<figure>
+<figcaption>I am a Class of 2029 rising sophmore at SHP </figcaption>
+<img width="24" height="25" alt="shp_logo" src="https://github.com/user-attachments/assets/6014f6b9-67d4-4177-a169-ee915d7ea675" />
+</figure>
+
 ---
 ## Languages
 Python

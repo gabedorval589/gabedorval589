@@ -1,3 +1,7 @@
+<!--
+<img width="225" height="277" alt="shp-tennis-dark" src="https://github.com/user-attachments/assets/322e21e3-b204-4e42-a351-d672a4bd12cc" />
+<img width="24" height="25" alt="shp_logo" src="https://github.com/user-attachments/assets/6014f6b9-67d4-4177-a169-ee915d7ea675" />
+-->
 # Gabe Dorval
 xx'Python Apprentice'xx
 
@@ -5,7 +9,7 @@ xx'Python Apprentice'xx
 
 <figure>
 <figcaption>I am a Class of 2029 rising sophmore at SHP </figcaption>
-<img width="24" height="25" alt="shp_logo" src="https://github.com/user-attachments/assets/6014f6b9-67d4-4177-a169-ee915d7ea675" />
+<img width="27" height="29" alt="shp_logo" src="https://github.com/user-attachments/assets/322e21e3-b204-4e42-a351-d672a4bd12cc" />
 </figure>
 
 ---
